@@ -17,6 +17,6 @@ Amout of memory taken by an algorithm to run, as a function of input size.
 ###### Asymptotic notations
 These are mathematical tools to represent time and space complexity
 
-1: Big-O Notation   - (Worst case complexity)  => This is the preferred notation.
-2: Omega Notation  - Best case complexity
-3: Theta Notation  - Average case complexity
+* Big-O Notation   - (Worst case complexity)  => This is the preferred notation.
+* Omega Notation  - Best case complexity
+* Theta Notation  - Average case complexity
