@@ -14,7 +14,7 @@ Amount of time taken by an algorithm to run, as a function of input size
 Amout of memory taken by an algorithm to run, as a function of input size.
 
 ### How to represent Complexity
-###### Asymptotic notations
+##### Asymptotic notations
 These are mathematical tools to represent time and space complexity
 
 * Big-O Notation   - (Worst case complexity)  => This is the preferred notation.
